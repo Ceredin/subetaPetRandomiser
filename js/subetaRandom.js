@@ -3,7 +3,9 @@
         "Keeto",
         "Dragarth",
         "Legeica", 
-        "Telenine"
+        "Telenine",
+        "Devonti",
+        "Anyu"
         ];
         
         var coloursA = ["Angelic",
