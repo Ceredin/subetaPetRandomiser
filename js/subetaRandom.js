@@ -5,7 +5,9 @@
         "Legeica", 
         "Telenine",
         "Devonti",
-        "Anyu"
+        "Anyu",
+        "Ruffie",
+        "Jollin"
         ];
         
         var coloursA = ["Angelic",
