@@ -7,7 +7,8 @@
         "Devonti",
         "Anyu",
         "Ruffie",
-        "Jollin"
+        "Jollin",
+        "Serpenth"
         ];
         
         var coloursA = ["Angelic",
